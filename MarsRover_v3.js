@@ -184,7 +184,7 @@ function runCycle() {
   else {
     for (j=0; j < roverTeam.length; j++) printRoute(roverTeam[j]);
     printScene("Final Scene");
-    window.alert("End of jurney");
+    window.alert("End of journey");
   }
 }
 
